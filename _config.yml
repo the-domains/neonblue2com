@@ -1,0 +1,14 @@
+layout_spectrum: 0.8139080991968513
+typography_spectrum: 0.8030334552749991
+color:
+  brandStrength: 0.7519067951943725
+  lightness: 0.8353037701454014
+  saturation: 0.6051118250470608
+  rhythmicContrast: 0.22858201432973146
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: neonblue2.com
